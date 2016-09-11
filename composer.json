@@ -23,7 +23,7 @@
     },
     "require-dev": {
         "phpunit/phpunit": "4.*|5.*",
-        "phpunit/php-timer": "dev as ~1.0"
+        "phpunit/php-timer": "dev as 1.0.8"
     },
     "autoload": {
         "classmap": [
