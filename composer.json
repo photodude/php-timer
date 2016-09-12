@@ -24,8 +24,8 @@
     "require-dev": {
         "phpunit/phpunit": "~4|~5"
     },
-    "provide": {
-        "phpunit/php-timer": "*"
+    "replace": {
+        "phpunit/php-timer": "self.version"
     },
     "autoload": {
         "classmap": [
